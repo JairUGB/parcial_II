@@ -1,0 +1,5 @@
+Librerias necesarias: matplotlib, pandas
+Integrantes:
+Dennys Fernando Campos Berrios
+Fernando Jose Hernandez Gomez
+Emerson Jair Umanzor Yanes
